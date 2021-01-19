@@ -1043,7 +1043,7 @@ http://admin-mainpanel.club:8080/Susie/Susie/23616
 http://admin-mainpanel.club:8080/Susie/Susie/7892
 #EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Banovina TV" tvg-logo="" group-title="Live: SRBIJA",RS: Banovina TV
 http://admin-mainpanel.club:8080/Susie/Susie/7898
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: RTV VISOKO" tvg-logo="[" group-title="Live: EX-Yu",RS: RTV VISOKO
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: RTV VISOKO" tvg-logo="[" group-title="Live: SRBIJA",RS: RTV VISOKO
 http://admin-mainpanel.club:8080/Susie/Susie/23620
 #EXTINF:-1 tvg-ID="rtvnovipazar.rs" tvg-name="RS: RTV Novi Pazar" tvg-logo="" group-title="Live: SRBIJA",RS: RTV Novi Pazar
 http://admin-mainpanel.club:8080/Susie/Susie/7029
